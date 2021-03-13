@@ -42,7 +42,7 @@ dependencies {
     compileOnlyApi("org.spigotmc:spigot-api:1.16.5-R0.1-SNAPSHOT")
     compileOnly("com.mojang:authlib:1.5.25")
     compileOnlyApi("com.sk89q.worldedit:worldedit-core:7.2.3")
-    compileOnly("com.sk89q.worldedit:worldedit-bukkit:7.2.3")
+    compileOnly("com.sk89q.worldedit:worldedit-bukkit:7.2.4")
     implementation("de.notmyfault:serverlib:1.0.1")
     implementation("org.bstats:bstats-bukkit:2.2.1")
     implementation("org.bstats:bstats-base:2.2.1")
